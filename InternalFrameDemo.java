@@ -1,5 +1,8 @@
 import javax.swing.*;
 
+class MyInternalFrame extends JInternalFrame{
+    
+}
 class MyFrame7 extends JFrame{
 
 
